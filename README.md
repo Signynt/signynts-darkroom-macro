@@ -1,5 +1,5 @@
 # Signynts-Film-Inversion
-Affinity Photo Macro for film negative inversion and dust &amp; scratch removal using infra-red scans.
+Signynts-Film-Inversion is a plugin for Affinity Photo that automatically inverts RAW film negative scans, and is capable of using infrared scans for automatic dust removal.
 
 ## Requirements
 
@@ -12,4 +12,4 @@ To use the `Split TIFF` workflow you have to have libtiff installed:
 Download the latest [release](https://github.com/Signynt/Signynts-Film-Inversion/releases)
 
 ## Video Demonstration
-[![Video Demonstration](https://res.cloudinary.com/marcomontalbano/image/upload/v1623863376/video_to_markdown/images/youtube--J4ONo155jfw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/J4ONo155jfw "Video Demonstration")
+[![Video Demonstration](https://res.cloudinary.com/marcomontalbano/image/upload/v1631792497/video_to_markdown/images/youtube--yS_7Wxnh4q0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/yS_7Wxnh4q0 "Video Demonstration")
