@@ -7,6 +7,8 @@ To use the `Split TIFF` workflow you have to have libtiff installed:
 
 `brew install libtiff`
 
+For best results make sure you are using the 'Generic RGB Profile' colorspace in Affinity Photo. You can select it under `Document > Assign ICC profile...`
+
 ## Download
 
 Download the latest [release](https://github.com/Signynt/Signynts-Film-Inversion/releases)
