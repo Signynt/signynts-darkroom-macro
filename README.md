@@ -1,3 +1,5 @@
+> For an improved version of this workflow, see [Signynt's Darkroom Shortcut](https://github.com/Signynt/signynts-darkroom-shortcut)
+
 # Signynts-Film-Inversion
 Signynts-Film-Inversion is a plugin for Affinity Photo that automatically inverts RAW film negative scans, and is capable of using infrared scans for automatic dust removal.
 
