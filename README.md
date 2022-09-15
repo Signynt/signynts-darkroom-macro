@@ -1,3 +1,6 @@
+> **Important!**
+> There is a newer version avaible that is fully implemented in Python, which makes it easier to install & platform independent. Find it under [Signynt's Darkroom Sript](https://github.com/Signynt/signynts-darkroom-script)
+
 > For an improved version of this workflow, see [Signynt's Darkroom Shortcut](https://github.com/Signynt/signynts-darkroom-shortcut)
 
 # Signynt's Darkroom Macro
